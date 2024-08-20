@@ -5,3 +5,18 @@
 }
 /**
 ***/
+
+/** Shinobu Expressions
+***/
+[character="Shinobu"][sob] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/shinobu_sob.png");
+}
+[character="Shinobu"][angrycloseup] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/shinobu_angrycloseup.png");
+}
+[character="Shinobu"][blushsquint] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/shinobu_blushsquint.png");
+}
+/**
+***/
+
