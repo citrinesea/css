@@ -31,8 +31,11 @@
 [character="Leo"][angrycloseup] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_angrycloseup.png");
 }
+[character="Leo"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_serious.png");
+}
 [character="Leo"][frown] {
-  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/frown.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_frown.png");
 }
 [character="Leo"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_grin.png");
@@ -46,17 +49,31 @@
 [character="Leo"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_norsmile.png");
 }
+[character="Leo"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_northinking.png");
+}
 [character="Leo"][resignation] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_resignation.png");
 }
 [character="Leo"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_serious.png");
 }
+[character="Leo"][srsthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_northinking.png");
+}
 [character="Leo"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_smileconfident.png");
 }
 [character="Leo"][yaresubstitute] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_yaresubstitute.png");
+}
+/**
+***/
+
+/** Madara Expressions
+***/
+[character="Madara"][dominant] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/madara_dominantocg.png");
 }
 /**
 ***/
