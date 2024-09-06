@@ -102,6 +102,9 @@
 [character="Leo"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_smileconfident.png");
 }
+[character="Leo"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_smilesoft.png");
+}
 [character="Leo"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_surprised.png");
 }
