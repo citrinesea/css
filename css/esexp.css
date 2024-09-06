@@ -1,3 +1,11 @@
+/** Tetora Expressions
+***/
+[character="Tetora"][dominant] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/tetora_dominantocg.png");
+}
+/**
+***/
+
 /** Adonis Expressions
 ***/
 [character="Adonis"][curious] {
@@ -28,6 +36,10 @@
 }
 [character="Keito"][admonishment] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/keito_admonishment.png");
+}
+
+[character="Keito"][dominant] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/keito_dominantocg.png");
 }
 /**
 ***/
