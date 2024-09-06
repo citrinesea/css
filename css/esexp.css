@@ -1,3 +1,26 @@
+/** Adonis Expressions
+***/
+[character="Adonis"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_curious.png");
+}
+[character="Adonis"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile.png");
+}
+[character="Adonis"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_northinking.png");
+}
+[character="Adonis"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_serious.png");
+}
+[character="Adonis"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_smileconfident.png");
+}
+[character="Adonis"][srsthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_srsthinking.png");
+}
+/**
+***/
+
 /** Keito Expressions
 ***/
 [character="Keito"][hazyflush] {
@@ -43,8 +66,8 @@
 [character="Leo"][laughgrin] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_laughgrin.png");
 }
-[character="Leo"][niya] {
-  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_niya.png");
+[character="Leo"][niyaclosed] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_niyaclosed.png");
 }
 [character="Leo"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_norsmile.png");
@@ -58,14 +81,44 @@
 [character="Leo"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_serious.png");
 }
+[character="Leo"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_shocked.png");
+}
 [character="Leo"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_northinking.png");
 }
 [character="Leo"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_smileconfident.png");
 }
+[character="Leo"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_surprised.png");
+}
 [character="Leo"][yaresubstitute] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_yaresubstitute.png");
+}
+
+[character="Leo"][dominant] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/leo_dominantocg.png");
+}
+/**
+***/
+
+/** Natsume Expressions
+***/
+[character="Natsume"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/natsume_curious.png");
+}
+[character="Natsume"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/natsume_norsmile.png");
+}
+[character="Natsume"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/natsume_smileconfident.png");
+}
+[character="Natsume"][softsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/natsume_softsmile.png");
+}
+[character="Natsume"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/natsume_yare.png");
 }
 /**
 ***/
