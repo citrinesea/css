@@ -2619,6 +2619,9 @@
 [character="Keito"][dominant] {
   --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/keito_dominantocg.png");
 }
+[character="Keito"][hanafuda] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/keito_hanafuda.png");
+}
 /**
 ***/
 /**
@@ -2813,6 +2816,9 @@
 
 [character="Souma"][pastcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/soumapast_cg.png");
+}
+[character="Souma"][hanafuda] {
+  --icon:url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/souma_hanafuda.png");
 }
 /**
 ***/
