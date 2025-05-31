@@ -5694,3 +5694,17 @@
   --name: "Kaede";
   --icon: url("https://cdn.jsdelivr.net/gh/citrinesea/css@latest/img/kaede.png");
 }
+
+[character="Majimun"] {
+  --color: #e4eff7;
+  --hue: 210;
+  --name: "Majimun";
+}
+
+[character="Shopkeeper"] {
+  --name: "Shopkeeper";
+}
+
+[character="Rogue"] {
+  --name: "Rogue";
+}
