@@ -5190,6 +5190,14 @@
   --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki_charahead.png")
 }
 ***/
+[character=Ibuki]{
+  --color: #66BBCC;
+  --hue: 190;
+  --name: "Ibuki";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki.png");
+  --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki_charahead.png")
+}
+
 [character="Ibuki"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki_awkward.png");
 }
